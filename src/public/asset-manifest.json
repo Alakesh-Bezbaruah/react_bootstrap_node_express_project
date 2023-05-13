@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50104d0a.css",
+    "main.js": "/static/js/main.81e96a64.js",
+    "static/media/iitg.mp4": "/static/media/iitg.cc49cc839c5ea270f207.mp4",
+    "static/media/video1.mp4": "/static/media/video1.12d932915fe1e64493e6.mp4",
+    "static/media/3.jpg": "/static/media/3.b7b2f8cc9afe3fa62213.jpg",
+    "static/media/1.jpg": "/static/media/1.7d04e3c5bc79731a736c.jpg",
+    "static/media/4.jpg": "/static/media/4.15996ccf32bbbc15c62b.jpg",
+    "static/media/2.jpg": "/static/media/2.27cbeceba020863b03ea.jpg",
+    "static/media/5.jpg": "/static/media/5.f1f32613232609e0e813.jpg",
+    "index.html": "/index.html",
+    "main.50104d0a.css.map": "/static/css/main.50104d0a.css.map",
+    "main.81e96a64.js.map": "/static/js/main.81e96a64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50104d0a.css",
+    "static/js/main.81e96a64.js"
+  ]
+}
